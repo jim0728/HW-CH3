@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\jackychan\desktop\c_code\ch3_lab2-2\project1\project1\main.c(38): warning C4715: 'recursive_factorial': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> C:\Users\JackyChan\Desktop\c_code\Ch3_lab2-2\Project1\Project1\..\..\temp\debug\Project1.exe

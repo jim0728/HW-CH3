@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\jackychan\desktop\110360219_詹景閎\p27\projectp27\projectp27\main.c(18): warning C4142: 'factorial': 良性的類型重複定義
+  c:\users\jackychan\desktop\110360219_詹景閎\p27\projectp27\projectp27\main.c(4): note: 請參閱 'factorial' 的宣告
+  Projectp27.vcxproj -> C:\Users\JackyChan\Desktop\110360219_詹景閎\p27\Projectp27\Debug\Projectp27.exe

@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\jackychan\desktop\110360219_詹景閎\p23\projectp23\projectp23\main.c(16): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  Projectp23.vcxproj -> C:\Users\JackyChan\Desktop\110360219_詹景閎\p23\Projectp23\Debug\Projectp23.exe
